@@ -1,0 +1,5 @@
+{
+  "name": "csharp-write-tests",
+  "version": "0.1.0",
+  "description": "Generate C# unit tests for a class or file using project conventions (NUnit, Assert.That, Create helpers, TestHelpers)."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "David Haubenstricker",
+    "email": "david@haubs.com"
+  },
+  "plugins": [
+    {
+      "name": "csharp-code-guidelines",
+      "source": "./csharp-code-guidelines",
+      "description": "C# structural and functional code guidelines applied automatically when writing or reviewing C# code."
+    },
+    {
+      "name": "csharp-write-tests",
+      "source": "./csharp-write-tests",
+      "description": "Generate C# unit tests for a class or file using project conventions."
+    }
+  ]
+}

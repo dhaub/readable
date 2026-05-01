@@ -1,0 +1,5 @@
+{
+  "name": "csharp-code-guidelines",
+  "version": "0.1.0",
+  "description": "C# structural and functional code guidelines applied automatically when writing or reviewing C# code."
+}
