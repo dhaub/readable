@@ -1,4 +1,4 @@
-# claude-marketplace
+# readable
 
 A [Claude Code](https://claude.com/claude-code) plugin marketplace by David Haubenstricker. Hosts opinionated plugins for C# development workflows.
 
@@ -16,7 +16,7 @@ A [Claude Code](https://claude.com/claude-code) plugin marketplace by David Haub
 Add this marketplace to Claude Code, then install the plugins you want.
 
 ```
-/plugin marketplace add dhaub/claude-marketplace
+/plugin marketplace add dhaub/readable
 /plugin install csharp-code-guidelines
 /plugin install csharp-write-tests
 ```
@@ -24,14 +24,14 @@ Add this marketplace to Claude Code, then install the plugins you want.
 To update later:
 
 ```
-/plugin marketplace update claude-marketplace
+/plugin marketplace update readable
 ```
 
 To remove:
 
 ```
 /plugin uninstall <plugin-name>
-/plugin marketplace remove claude-marketplace
+/plugin marketplace remove readable
 ```
 
 ## Usage
